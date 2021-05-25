@@ -26,7 +26,7 @@ exports.author_delete_get = function(req, res) {
 };
 
 // Handle Author delete on POST
-exports.author_create_post = function(req, res) {
+exports.author_delete_post = function(req, res) {
   res.send('NOT IMPLEMENTED: Author delete POST');
 };
 
